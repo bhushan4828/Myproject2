@@ -30,7 +30,7 @@ public class ArmStrong {
             	   System.out.println("Not Armstrong");
                }
         
-      
+          System.out.println("Thanks");
 	}
 
 }
